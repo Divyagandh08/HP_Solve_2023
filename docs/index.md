@@ -7,3 +7,9 @@ To get one stop store my idea is to make customer segmentation according to thei
 ![DATA FLOW](https://github.com/Divyagandh08/HP_Solve_2023/assets/124669404/32a3abaa-f627-48a3-9ad9-914df42794d4)
 
 SOLUTION:
+The solution is attached outside
+I have done analysis and visualization of the FLIPKART CUSTOMER DATA.
+
+CONCLUSION:
+In this we can make analysis and plots.
+By using those data we can try to improve the product of certain section of people.
